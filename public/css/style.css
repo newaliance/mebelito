@@ -1,0 +1,50 @@
+#slider{
+    width:95%;
+    height:20%;
+    background:black;
+    margin:auto;
+    
+ }
+ #shares{
+     width:20%;
+     float:left;
+     height:20%;
+     background:blue;
+     margin-left:2.5%;
+     
+ }
+ #aboutus{
+     width:75%;
+     height:20%;
+     background:pink;
+     margin-left:22.5%;
+ }
+ #kitchens{
+     width:75%;
+     height:40%;
+     background:blue;
+     margin-left:22.5%;
+     
+ }
+ 
+ div.catalog{
+     
+     width:600px;
+     height:459px;
+     background:black;
+     margin:0% 2.5% 0% 37.5%;
+     
+ }
+ 
+ a.kitchenprev{
+     
+     width:181px;
+     height:150px;
+     
+ }
+ 
+ input.form-control {
+  width:20% !important;   
+     
+     
+ }
